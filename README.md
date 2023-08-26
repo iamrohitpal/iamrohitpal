@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iam_rohit_pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_rohit_pal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-pal-19a07021b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-pal-19a07021b/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100071982833488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100071982833488" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohit-pal-19a07021b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-pal-19a07021b/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100071982833488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100071982833488" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_rohit_pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_rohit_pal" height="30" width="40" /></a>
 </p>
 
