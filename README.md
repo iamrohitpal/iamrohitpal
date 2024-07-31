@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **laravel, symfony**
 
-- 👨‍💻 All of my projects are available at [https://iamrohitpal.github.io/myportfolio/](https://iamrohitpal.github.io/myportfolio/)
-
 - 💬 Ask me about **html, css, js, php**
 
 - 📫 How to reach me **iamrohitpalg@gmail.com**
