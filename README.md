@@ -41,4 +41,4 @@
   <code><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></code>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrohitpal&show_icons=true&locale=en" alt="iamrohitpal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-multiuser.vercel.app/api?usernames=iamrohitpal,rohitpal-webkul&show_icons=true&locale=en" alt="iamrohitpal" /></p>
