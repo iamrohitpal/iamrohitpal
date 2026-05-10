@@ -1,13 +1,13 @@
 <h1>Hi 👋, I'm Rohit Pal</h1>
 <h3>A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [UnoPim](https://github.com/unopim/unopim) [Bagisto](https://github.com/bagisto/bagisto)
+- 🔭 I’m currently working on [LibrePim](https://github.com/libre-pim/librepim-dev) [UnoPim](https://github.com/unopim/unopim) [Bagisto](https://github.com/bagisto/bagisto)
 
-- 🌱 I’m currently learning **Laravel 12**
+- 🌱 I’m currently learning **Laravel 13**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamrohitpal?tab=repositories](https://github.com/iamrohitpal?tab=repositories)
 
-- 💬 Ask me about **Laravel 12, php, Bootstrap, Vue js, JQuery, Javascript, Tailwind css, UnoPim, Bagisto.**
+- 💬 Ask me about **Laravel 13, php, Bootstrap, Vue js, JQuery, Javascript, Tailwind css, UnoPim, Bagisto.**
 
 - 📫 Reach my portfolio **<a href="https://iamrohitpal.netlify.app" target="_blank">iamrohitpal.netlify.app</a>**
 
